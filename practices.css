@@ -1,0 +1,162 @@
+.bg {
+    background-color: #E2E2E2;
+    margin-top: 2px;
+    height: 1100px;
+    width: 100%;
+}
+
+.head {
+    margin-left: 200px;
+}
+
+.left {
+    margin-top: 50px;
+    margin-left: 1;
+}
+
+
+.practice {
+    margin-left: 100px;
+    text-align: left;
+}
+
+.side1 {
+    display: flex;
+    margin-left: 235px;
+    width: 3000px ;
+    
+}
+
+.our {
+    display: flex;
+    
+}
+
+.card {
+    height: 100px;
+    width: 20%;
+
+}
+
+.card1 {
+    height: 100px;
+    margin-left: 20px;
+}
+
+.one {
+    display: flex;
+}
+
+.two {
+    display: flex;
+    margin-top: 70px;
+}
+
+.three {
+    display: flex;
+    margin-top: 70px;
+}
+
+.sa {
+    margin-top: 100px;
+}
+
+.news{
+    background-color: #FFFFFF;
+    height: 200px;
+    width: 580px;
+    display: flex;
+}
+
+.ddetails{
+    margin-left: 1000px;
+}
+.silde{
+    border-left: dotted ;
+    height: 840px;
+    margin-left: 00px;
+    padding: 20px;
+    border-color: #C6C6C6;
+    width: 650px;
+    word-spacing: 2px;
+}
+
+.button{
+    color: #FFFFFF;
+    background-color: #393939;
+    border:2px  #FFFFFF;
+    transition: 2s;
+    height: 50px;
+    width: 140px;
+}
+.button:hover{
+    background-color:#393939;
+    color: white;
+}
+
+.buttons
+{
+    text-align: left;
+    background-color: #393939;
+    height: 30px;
+    width: 120px;
+    
+}
+
+.new{
+    margin-left: 30px;
+    width: 10000px;
+}
+
+.new1
+{
+    margin-left: 10px;
+   
+}
+
+.side11{
+    width: 1750px;
+    display: flex;
+}
+
+.border11{
+    border-left: dotted 2px #C6C6C6;  ;
+    margin-left: 30px;
+    height: 800px;
+  
+}
+.border12{
+    margin-left: 30px;
+}
+.border{
+    width: 300px;
+}
+
+.div{
+    margin-left: 200px;
+    width: 250px;    
+}
+.div1{
+    display: flex;
+}
+
+.silde1{
+    border-left: dotted ;
+    height: 840px;
+    margin-left: 75px;
+    padding: 20px;
+    border-color: #C6C6C6;
+    width: 650px;
+    word-spacing: 2px;
+}
+
+.our{
+    display: flex;
+    width: 520px;
+    margin-left: 20px;
+}
+
+.our1{
+    margin-left: 40px;
+    border-left: solid 3px #C6C6C6;
+}
